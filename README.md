@@ -4,6 +4,8 @@ I'm a newly minted Full Stack Web Developer thanks to an incredible 15 weeks at 
 
 I’m looking for full-time work to keep learning and growing in the coding world.
 
+🔗 [My CV](https://www.icloud.com/iclouddrive/0981iPLtBokCK_7uyBiUzDdwQ#Rowan_Strang_CV_2024) 📃
+
 I have experience in
 - JavaScript
 - TypeScript
