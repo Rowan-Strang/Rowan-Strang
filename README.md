@@ -19,8 +19,6 @@ I have experience in
 
 At Dev Academy I lead a team to create 'Hot Coffee' a mobile first website to crowd source coffee ratings and help people find their nearest and best cup of coffee.
 
-[Check out the deployed version here](https://hotcoffee.devacademy.nz) (unfortunately it only features Wellington cafes)
-
 I'm currently working on 'Day Builder' a site for wedding videogarphers and photographers to quickly create a timeline for the day and add it to their own calendar
 the magic here is that day builder will forcast and account for the driving time between each new location, giving users and their clients an accurate understanding of how precious time will be spent
 
