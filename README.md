@@ -1,6 +1,8 @@
-## I'm Rowan! (he/him) from Wellington
+## I'm Rowan! (he/him) from Christchurch
 
-I'm a newly minted Full Stack Web Developer thanks to an incredible 17 weeks at Dev Academy Aotearoa.
+I'm a newly minted iOS & Full Stack Web Developer thanks to an incredible 17 weeks at Dev Academy Aotearoa in 2024 and an epic year building my first app in 2025
+
+Check out my app Timely here: [Timely on TestFlight](https://testflight.apple.com/join/dqaBkfdV)
 
 I’m looking for full-time work to keep learning and growing in the coding world.
 
