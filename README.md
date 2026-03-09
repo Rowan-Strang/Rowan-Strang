@@ -1,4 +1,4 @@
-## I'm Rowan, from Christchurch
+## I'm Rowan
 
 I'm a newly minted iOS & Full Stack Web Developer thanks to an incredible 17 weeks at Dev Academy Aotearoa in 2024 and an epic year building my first app in 2025
 
