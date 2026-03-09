@@ -4,6 +4,8 @@ I'm a newly minted iOS & Full Stack Web Developer thanks to an incredible 17 wee
 
 Check out my app Timely here: [Timely on TestFlight](https://testflight.apple.com/join/dqaBkfdV)
 
+And if you're an iPhone user with an OpenAI API Key, you've got to check out '[Hey Siri, Add to Calendar](https://github.com/Rowan-Strang/Add-to-Calendar)' my shortcut for quickly turning what you see on screen into a detailed calendar event
+
 I’m interested in full-time work to keep learning and growing.
 
 🔗 [My CV](https://www.icloud.com/iclouddrive/0981iPLtBokCK_7uyBiUzDdwQ#Rowan_Strang_CV_2024) 📃
