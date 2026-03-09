@@ -1,10 +1,10 @@
-## I'm Rowan! (he/him) from Christchurch
+## I'm Rowan, from Christchurch
 
 I'm a newly minted iOS & Full Stack Web Developer thanks to an incredible 17 weeks at Dev Academy Aotearoa in 2024 and an epic year building my first app in 2025
 
 Check out my app Timely here: [Timely on TestFlight](https://testflight.apple.com/join/dqaBkfdV)
 
-I’m looking for full-time work to keep learning and growing in the coding world.
+I’m interested in full-time work to keep learning and growing.
 
 🔗 [My CV](https://www.icloud.com/iclouddrive/0981iPLtBokCK_7uyBiUzDdwQ#Rowan_Strang_CV_2024) 📃
 
@@ -19,12 +19,12 @@ I have experience in
 - Express
 - Knex.js & SQLite3.
 
-At Dev Academy I lead a team to create 'Hot Coffee' a mobile first website to crowd source coffee ratings and help people find their nearest and best cup of coffee.
 
-I'm currently working on 'Day Builder' a site for wedding videogarphers and photographers to quickly create a timeline for the day and add it to their own calendar
-the magic here is that day builder will forcast and account for the driving time between each new location, giving users and their clients an accurate understanding of how precious time will be spent
+I'm currently working on an iOS App, 'Timely – Live Activity Countdowns', a productivity-focused app that helps users track upcoming events through Live Activities and countdowns. Call it a cure for Time blindness, an app I've always wanted and now I have the skills to make it real.
 
-I'm currenty building out my portfolio and about to start learning Swift and Swift UI
+On the technical side, I’m building it with SwiftUI and SwiftData, using ActivityKit and WidgetKit to surface countdowns on the Lock Screen and Dynamic Island. I’m also working with App Intents for Siri and Shortcuts support, plus UserNotifications and AlarmKit for reminders and time-sensitive alerts.
+
+The app also explores calendar and travel-aware experiences with EventKit and MapKit, alongside CloudKit-backed persistence and newer Apple intelligence APIs like Foundation Models (for suggesting a relevant emoji based on the event title).
 
 I'm passionate about all forms of technology & software
 But in particular I love:
