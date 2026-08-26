@@ -1,8 +1,8 @@
 ## I'm Rowan
 
-I'm a newly minted iOS & Full Stack Web Developer thanks to an incredible 17 weeks at Dev Academy Aotearoa in 2024 and an epic year building my first app in 2025
+I'm a newly minted iOS & Full Stack Web Developer thanks to an incredible 17 weeks at Dev Academy Aotearoa in 2024 and an epic year building my first app in 2025 and launching it in 2026
 
-Check out my app Timely here: [Timely on TestFlight](https://testflight.apple.com/join/dqaBkfdV)
+Get Timely here: [Timely on the App Store](https://apps.apple.com/app/timely-countdown-alarms/id6754261998)
 
 And if you're an iPhone user with an OpenAI API Key, you've got to check out '[Hey Siri, Add to Calendar](https://github.com/Rowan-Strang/Add-to-Calendar)' my shortcut for quickly turning what you see on screen into a detailed calendar event
 
